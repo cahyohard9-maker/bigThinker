@@ -2,9 +2,9 @@ url: https://cahyohard9-maker.github.io
 baseurl: /bigThinker/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Silica Gel Surabaya
+email: desiccantosby@gmail.com
+description: Kami melayani penjualan eceran maupun grosir produk silica gel dan desiccant silahkan klik desiccanto.com (B2B) atau desiccanto.shop (Retail)
 
 
 # Team names, titles and social links
@@ -44,22 +44,18 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
+  - title: DESICCANTO.COM
+    url: https://www.desiccanto.com/
+  - title: DESICCANTO.SHOP
+    url: https://www.desiccanto.shop/
+  - title: SILICAGEL.ID
+    url: https://www.silicagel.id/
+  
+# Office address :
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Gunungsari Indah blok U No.5
+  - line: Surabaya, Jawa Timur 60223
 
 # Build settings
 markdown: kramdown
-permalink: pretty
+permalink: silica gel surabaya
